@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SJBS14
-- 👀 I’m interested in Python language
+- 👀 I’m interested in Python language and Power BI
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : sjbds14@gmail.com
